@@ -8,7 +8,7 @@
  - tkinter
    - for arch users
    > pacman -S python tk
- - [COVID19Py Library](https://pypi.org/project/COVID19Py/)
+ - [COVID19Py Library](https://pypi.org/project/COVID19Py/)  (Already included no need to perform below steps but if any error comes then perform below steps)
    - for arch users
    > pacman -S python-pip
    
