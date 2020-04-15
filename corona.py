@@ -14,7 +14,6 @@ def show_entry_fields():
     box.insert(INSERT,"Country Population = "+str(ld['country_population'])+"\n")
     box.insert(INSERT,"Confirmed = "+str(vd['confirmed'])+"\n")
     box.insert(INSERT,"Deaths = "+str(vd['deaths'])+"\n")
-    box.insert(INSERT,"Recovered = "+str(vd['recovered'])+"\n")
     lu=ld['last_updated']
     box.insert(INSERT,"Last Updated = "+lu[0:10]+"\n")
 
