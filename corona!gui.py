@@ -9,7 +9,6 @@ def show(x):
     print("Country Population = "+str(ld['country_population'])+"\n")
     print("Confirmed = "+str(vd['confirmed'])+"\n")
     print("Deaths = "+str(vd['deaths'])+"\n")
-    print("Recovered = "+str(vd['recovered'])+"\n")
     lu=ld['last_updated']
     print("Last Updated = "+lu[0:10]+"\n")
 
